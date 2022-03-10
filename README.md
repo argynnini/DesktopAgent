@@ -23,4 +23,4 @@ I don't test environments under Linux and Mac.
  
 # License
  
-"Physics_Sim_Py" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+"Desktop Agent" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
